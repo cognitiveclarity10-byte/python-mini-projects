@@ -1,5 +1,9 @@
 # Rock Paper Scissors Game
 
+ <img width="259" height="194" alt="images" src="https://github.com/user-attachments/assets/22fa1ec6-d5ee-453b-96a4-4282f5cc604b" />
+
+
+
 A simple console-based Rock, Paper, Scissors game written in Python. The game allows a user to play against the computer and determine the winner based on the classic rules.
 
 ## Features
