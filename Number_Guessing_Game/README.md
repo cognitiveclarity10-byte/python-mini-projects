@@ -4,7 +4,9 @@
 
 # Number Guessing Game
 
-<p align="center">
+<p align="center"><img width="774" height="450" alt="guess-the-number" src="https://github.com/user-attachments/assets/82a3ff0a-f0a5-4251-81b4-809e376950d3" />
+
+
 
 
 ## 🛠️ Description
