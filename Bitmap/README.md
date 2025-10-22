@@ -26,4 +26,4 @@ This project is open-source and free to use under the MIT License
 
 ## 🙌 Credits
 
-Inspired by the classic Bagels game from Al Sweigart's Invent Your Own Computer Games with Python.
+Inspired by the Bitmap from Al Sweigart's The Book of Small Python projects
