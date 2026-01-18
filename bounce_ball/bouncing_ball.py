@@ -102,13 +102,3 @@ while running:
 
 pygame.quit()
 
-
-print (top_wall)
-print(bottom_wall)
-print(left_wall)
-
-print(right_wall)
-
-print (left_wall.right)
-print (ball_x)
-print(bottom_wall.top)
